@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\bin\Debug\BESK.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\bin\Debug\BESK.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\bin\Debug\BESK.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.g.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\BESK.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\AddDevice.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\BESK\BESK\obj\Debug\AddDevice.baml
